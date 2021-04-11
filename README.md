@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Location Data Capstone IBM
+# IBM_AppliedDataSci_Coursera_Capstone
+please feel free to use these resources, have a great day!
